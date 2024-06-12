@@ -1,6 +1,6 @@
 numpy
 pymongo
-torch==2.3.0
+torch
 torchvision
 pillow
 flask
